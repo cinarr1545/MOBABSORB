@@ -1,0 +1,20 @@
+{
+  "key.categories.mobabsorb": "Mob Absorbe Modu",
+  "key.mobabsorb.use_power": "Absorbe Edilen Gucu Kullan",
+  "key.mobabsorb.swamp_absorb": "Bataklik Gibi Vucuda Cek (Absorbe)",
+  "key.mobabsorb.release_mob": "Kucaktaki Mobu Birak",
+
+  "message.mobabsorb.grabbed": "Kucaklandi: %s! (Sag Tik basili tut: Ye | Shift+Sag Tik veya V: Vucuda Absorbe Et | G: Birak)",
+  "message.mobabsorb.eaten": "%s yendi! Gucunu kazandin!",
+  "message.mobabsorb.absorbed": "%s vucudunun icine cekilerek absorbe edildi! Gucunu kazandin!",
+  "message.mobabsorb.released": "Kucaktaki mob birakildi.",
+  "message.mobabsorb.cooldown": "Guc bekleme suresinde: %s sn",
+  "message.mobabsorb.no_power": "Henuz absorbe edilmis bir mob gucun yok!",
+
+  "hud.mobabsorb.holding": "Kucakta: %s",
+  "hud.mobabsorb.eating": "Yeniyor...",
+  "hud.mobabsorb.absorbing": "Vucuda Cekiliyor (Bataklik)...",
+  "hud.mobabsorb.active_power": "Aktif Guc: %s",
+  "hud.mobabsorb.ready": "Hazir [R]",
+  "hud.mobabsorb.cd": "%ss"
+}

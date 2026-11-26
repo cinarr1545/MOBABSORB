@@ -1,0 +1,20 @@
+{
+  "key.categories.mobabsorb": "Mob Absorb Mod",
+  "key.mobabsorb.use_power": "Use Absorbed Mob Power",
+  "key.mobabsorb.swamp_absorb": "Swamp-Absorb Held Mob",
+  "key.mobabsorb.release_mob": "Release Held Mob",
+
+  "message.mobabsorb.grabbed": "Picked up: %s! (Hold Right-Click: Eat | Hold Shift+Right-Click or V: Swamp-Absorb | G: Drop)",
+  "message.mobabsorb.eaten": "Ate %s! You gained its power!",
+  "message.mobabsorb.absorbed": "%s sank into your body! You absorbed its power!",
+  "message.mobabsorb.released": "Released held mob.",
+  "message.mobabsorb.cooldown": "Power on cooldown: %ss",
+  "message.mobabsorb.no_power": "You have not absorbed any mob power yet!",
+
+  "hud.mobabsorb.holding": "Holding: %s",
+  "hud.mobabsorb.eating": "Eating...",
+  "hud.mobabsorb.absorbing": "Absorbing into body...",
+  "hud.mobabsorb.active_power": "Power: %s",
+  "hud.mobabsorb.ready": "Ready [R]",
+  "hud.mobabsorb.cd": "%ss"
+}
